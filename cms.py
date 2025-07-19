@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced Blog CMS Script for The Bandar Breakdowns
+Enhanced Blog CMS Script
 A robust content management system for creating and managing blog posts.
 """
 
